@@ -4,7 +4,7 @@ DooM, by Grise.[LBF] for Unvanquished.
  
 Map: DooM
 Author: Grise
-License: CC By-SA 4.0
+License: MIT
  
 Textures:
 - Unvanquished game
