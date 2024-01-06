@@ -32,4 +32,4 @@ Changelog:
 
 Screenshots:
 [<img src="readme_files/screenshot_01.jpg" width="100"/>](readme_files/screenshot_01.jpg)
-[<img src="readme_files/screenshot_02.jpg" width="100"/>](readme_files/screenshot_01.jpg)
+[<img src="readme_files/screenshot_02.jpg" width="100"/>](readme_files/screenshot_02.jpg)
