@@ -29,3 +29,6 @@ Changelog:
 - Added lava texture & shader (lava texture source: https://opengameart.org/content/yet-another-glowing-coal-pattern) 
 - Added new textures
 - Added a new section at middle part containing two lava pits and a big reactor inside rocks
+Screenshots:
+[<img src="meta/preview_textures/1.jpg" width="100"/>](readme_files/screenshot_01.jpg)
+[<img src="meta/preview_textures/1.jpg" width="100"/>](readme_files/screenshot_02.jpg)
