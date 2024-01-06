@@ -18,7 +18,7 @@ thanks for the great work to Wulfen, Monoxead, Sikkpin, Clear_strelok, Arl, dark
 
 ---
 
-Additional updates for version 1.0:
+Additional updates for version 1.4:
 
 Author: Masmblr 
 License: MIT
