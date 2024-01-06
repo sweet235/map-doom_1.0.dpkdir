@@ -68,6 +68,18 @@ textures/3D/other/lanrock1_d
 	}
 }
 
+//dusty rocks
+textures/3D/other/lanrock1_dusty_d
+{
+	qer_editorImage     textures/3D/other/lanrock1_dusty_d
+
+	{
+		diffuseMap      textures/3D/other/lanrock1_dusty_d
+		normalMap       textures/3D/other/lanrock1_local
+		specularMap     textures/3D/other/lanrock1_s
+	}
+}
+
 textures/3D/floor/a_sfloor_d
 {
 	qer_editorImage     textures/3D/floor/a_sfloor_d
