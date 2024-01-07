@@ -19,6 +19,7 @@ thanks for the great work to Wulfen, Monoxead, Sikkpin, Clear_strelok, Arl, dark
 ---
 
 Additional updates: 06.01.2024
+Additional updates for version 1.4:
 
 Author: Masmblr 
 
