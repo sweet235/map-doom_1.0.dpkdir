@@ -42,7 +42,7 @@ Author: Masmblr
 
 Changelog: 
 - Brushwork improvements 
-- Replaced entries with more detailed ones, reshap of the middle part
+- Replaced entries with more detailed ones, reshape of the middle part
 
 Screenshots:
 [<img src="readme_files/screenshot_03.jpg" width="100"/>](readme_files/screenshot_03.jpg)
