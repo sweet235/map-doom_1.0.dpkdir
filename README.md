@@ -18,9 +18,8 @@ thanks for the great work to Wulfen, Monoxead, Sikkpin, Clear_strelok, Arl, dark
 
 ---
 
-Additional updates for version 1.0: 
+Additional updates: 06.01.2024
 Author: Masmblr 
-License: MIT
 
 Changelog: 
 - Brushwork improvements 
@@ -33,3 +32,17 @@ Changelog:
 Screenshots:
 [<img src="readme_files/screenshot_01.jpg" width="100"/>](readme_files/screenshot_01.jpg)
 [<img src="readme_files/screenshot_02.jpg" width="100"/>](readme_files/screenshot_02.jpg)
+
+---
+
+Additional updates: 07.01.2024
+Author: Masmblr 
+
+Changelog: 
+- Brushwork improvements 
+- Replaced entries with more detailed ones, reshap of the middle part
+
+Screenshots:
+[<img src="readme_files/screenshot_03.jpg" width="100"/>](readme_files/screenshot_03.jpg)
+[<img src="readme_files/screenshot_04.jpg" width="100"/>](readme_files/screenshot_04.jpg)
+[<img src="readme_files/screenshot_05.jpg" width="100"/>](readme_files/screenshot_05.jpg)
