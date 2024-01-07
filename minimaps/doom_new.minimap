@@ -1,0 +1,7 @@
+{
+	backgroundColor 0.0 0.0 0.0 0.333
+	zone {
+		bounds 0 0 0 0 0 0
+		image "minimaps/doom_new" -3688.000000 -3512.000000 3496.000000 3672.000000
+	}
+}
