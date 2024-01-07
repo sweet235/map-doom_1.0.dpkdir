@@ -19,6 +19,7 @@ thanks for the great work to Wulfen, Monoxead, Sikkpin, Clear_strelok, Arl, dark
 ---
 
 Additional updates: 06.01.2024
+
 Author: Masmblr 
 
 Changelog: 
@@ -36,6 +37,7 @@ Screenshots:
 ---
 
 Additional updates: 07.01.2024
+
 Author: Masmblr 
 
 Changelog: 
