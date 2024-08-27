@@ -41,3 +41,38 @@ textures/doom/lava_01
 		blendfunc add
 	}
 }
+
+textures/doom/sky
+{
+	qer_editorImage env/shared_space_src/sky05_up
+
+	q3map_skylight 600 4
+	q3map_lightRGB 1.0 0.5 0.3
+
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	surfaceparm sky
+
+	skyparms env/shared_space_src/sky05 - -
+}
+
+textures/doom/glass
+{
+	qer_editorImage textures/shared_trak5_src/glass_d
+	qer_trans 0.50
+
+	surfaceparm         alphashadow
+	surfaceparm         trans
+
+	{
+		diffuseMap textures/shared_trak5_src/glass_d
+		blend blend
+	}
+
+	{
+		map textures/doom/noise5_n
+		stage heathazeMap
+		deformMagnitude 0.25
+		tcmod scale 0.5 0.5
+	}
+}
